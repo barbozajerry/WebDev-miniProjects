@@ -1,4 +1,4 @@
-# WebDev-miniProjects
+# Web Development mini Projects
 <h1>FreeCodeCamp:</h1>
 <br>
 
