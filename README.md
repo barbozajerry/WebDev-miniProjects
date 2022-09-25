@@ -1,7 +1,7 @@
 # Web Development mini Projects
 <h1>FreeCodeCamp:</h1>
 <br>
-
+ 1. Cat App HTML: [Codepen link](https://codepen.io/barbozajerry/pen/PoeGpwY) <br><br>
  2. Coffee Menu: [Replit Link](https://Coffee-Menu.jerrybarboza.repl.co) or [codepen](https://codepen.io/artisticjerry/pen/qBYrzjE)
  <br>
  
