@@ -1,6 +1,5 @@
 # Web Development mini Projects
 <h1>FreeCodeCamp:</h1>
-<br>
  1. Cat App HTML: [Codepen link](https://codepen.io/barbozajerry/pen/PoeGpwY)
 
 
