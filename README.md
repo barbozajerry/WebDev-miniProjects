@@ -10,3 +10,5 @@
 
 4. Registration Form CSS: [Replit](https://Registration-Form.jerrybarboza.repl.co)<br>
 
+5. Canvas Painting CSS: 
+
