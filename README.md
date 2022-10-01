@@ -10,5 +10,5 @@
 
 4. Registration Form CSS: [Replit](https://Registration-Form.jerrybarboza.repl.co)<br>
 
-5. Canvas Painting CSS: [Codepen Link](https://codepen.io/barbozajerry/pen/bGMMGwv)
+5. Canvas Painting CSS: [Replit](https://Rothko-Painting-CSS.jerrybarboza.repl.co) [Codepen Link](https://codepen.io/barbozajerry/pen/bGMMGwv)
 
