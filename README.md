@@ -14,5 +14,5 @@
 
 6. CSS Flexbox Cats Gallery [Codepen](https://codepen.io/barbozajerry/pen/xxjjprr)
 
-7. 
+7. Nutrition Label: [codepen](https://codepen.io/barbozajerry/pen/jOxMmae)
 
